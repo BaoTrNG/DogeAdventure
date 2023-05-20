@@ -122,7 +122,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: cfb3cbdda84716648b45398748a62fb4, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: 202971ee35d36904b97fac8dd787d08f, type: 2}
 --- !u!1 &3252095
 GameObject:
   m_ObjectHideFlags: 0
@@ -15284,7 +15284,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1449621192902058, guid: 9672218ecb324c240ae58e7a390701f2, type: 3}
       propertyPath: m_NavMeshLayer
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1449621192902058, guid: 9672218ecb324c240ae58e7a390701f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -47588,13 +47588,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: DogMeleeEnemy
       objectReference: {fileID: 0}
+    - target: {fileID: 135622622717593843, guid: cc567ed5ec530f140970281f37b30572, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8343703049235654756, guid: cc567ed5ec530f140970281f37b30572, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8343703049366122716, guid: cc567ed5ec530f140970281f37b30572, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8764518398648681171, guid: cc567ed5ec530f140970281f37b30572, type: 3}
       propertyPath: m_RootOrder
@@ -50350,7 +50354,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1424496006}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 184e6133a69c32c4bb66cbd848f309a7, type: 3}
+  m_Script: {fileID: 11500000, guid: 5eb2a5ac018923346be2b85dc86dc303, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Pressed: 0
@@ -59824,7 +59828,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1449621192902058, guid: 9672218ecb324c240ae58e7a390701f2, type: 3}
       propertyPath: m_NavMeshLayer
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1449621192902058, guid: 9672218ecb324c240ae58e7a390701f2, type: 3}
       propertyPath: m_StaticEditorFlags

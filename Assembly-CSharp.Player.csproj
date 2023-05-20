@@ -186,9 +186,9 @@
     <Compile Include="Assets\VFX\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_Translate.cs" />
     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-    <Compile Include="Assets\Animal\Quirky Series - Birds Bundle\_Scripts\Demo.cs" />
     <Compile Include="Assets\Enviroment\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\Animal\Quirky Series - Birds Bundle 1\_Scripts\Demo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -201,9 +201,9 @@
     <None Include="Assets\VFX\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR Particle Ubershader.shader" />
     <None Include="Assets\VFX\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_SETTINGS.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Animal\Quirky Series - Birds Bundle 1\_Shader\SoftSurface.shader" />
     <None Include="Assets\VFX\JMO Assets\Cartoon FX (legacy)\CartoonFX Free.txt" />
     <None Include="Assets\Enviroment\Polytope Studio\Lowpoly_Characters\Sources\Modular_NPC\Shaders\PT_Modular_NPC_Shader_Toon.shader" />
-    <None Include="Assets\Animal\Quirky Series - Birds Bundle\_Shader\SoftSurface.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\Enviroment\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\PT_Vegetation_Plants_Shader.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
@@ -251,8 +251,8 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Enviroment\Polytope Studio\Lowpoly Medieval Environments\Sources\Shaders\VS_indirect.cginc" />
     <None Include="Assets\VFX\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_URP.cginc" />
-    <None Include="Assets\Animal\Quirky Series - Birds Bundle\_Shader\ToonRamp.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Animal\Quirky Series - Birds Bundle 1\_Shader\ToonRamp.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Enviroment\AurynSky\Forest Pack\READ ME.txt" />
     <None Include="Assets\VFX\Hovl Studio\Magic effects pack\Demo scene\Readme.txt" />
