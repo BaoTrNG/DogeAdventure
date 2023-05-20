@@ -1,16 +1,14 @@
 # DogeAdventure
 
 ## GUIDE: Open Assests/Scenes/MainScene
-```diff
--GUIDE: Open Assests/Scenes/MainScene
-```
 
 
 
 
 
 
- DISCLAIMER:
+
+## DISCLAIMER:
 
  This game is intended for learning purposes only(COMMERCIAL VERSION IS NOT OUT YET) and should not be used for any other purpose. The game is provided “as is” without any warranties or guarantees, express or implied. The game’s creators
 
