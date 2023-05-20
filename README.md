@@ -40,7 +40,7 @@ PLAYER MOUNT
 
 ##
 
-SIMPLE NPC DIALOGUE (Bug When Spamming input)
+SIMPLE NPC DIALOGUE 
 ![npc dialogue](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/9dcc97d5-4ca9-48fe-ad3f-b2583896a8b4)
 
 
