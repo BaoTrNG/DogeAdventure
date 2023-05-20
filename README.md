@@ -1,7 +1,7 @@
 # DogeAdventure
 
-> __Note__
-## GUIDE: Open Assests/Scenes/MainScene
+
+## > __Note__ GUIDE: Open Assests/Scenes/MainScene
 
 
 
