@@ -1,7 +1,8 @@
 # DogeAdventure
 
+##
 ```diff
--##GUIDE: Open Assests/Scenes/MainScene
+-GUIDE: Open Assests/Scenes/MainScene
 ```
 
 
