@@ -14,27 +14,27 @@ This game is intended for learning purposes only(COMMERCIAL VERSION IS NOT OUT Y
 
 MAIN MAP
 
-![map](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/505298aa-c755-4d99-88ab-7e21eebe2842)
+![map](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/69cb31bb-ef56-49db-b99c-d6efdaa6c475)
 
 
 
 
 HIT ENEMY 
+![hit enemy](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/8214f084-df67-4d9e-836a-fb8fada9abd4)
 
-![hit enemy](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/f096c463-525c-4333-bfdf-b511ee0348fb)
 
 PLAYER MOUNT 
-![player mount](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/d14eb48e-db86-4948-83de-67e89342f67b)
+![player mount](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/796fde4a-a551-43f2-922d-13ebfb8babe4)
 
 
 SIMPLE NPC DIALOGUE (Bug When Spamming input)
-![npc dialogue](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/48bbb15d-2fd7-4e6e-96cf-1ee1a3ed59b6)
+![npc dialogue](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/9dcc97d5-4ca9-48fe-ad3f-b2583896a8b4)
 
 
 
 
 FORREST MAP 
-![forrest](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/742ddecc-bc89-4ab3-82db-6ddcd04814f0)
+![forrest](https://github.com/BaoTrNG/DogeAdventure/assets/27564856/54c28419-cd54-4b1c-a362-9b9ac828d2c1)
 
 
 
