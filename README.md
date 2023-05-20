@@ -13,7 +13,7 @@
 
 - This game is intended for learning purposes only(COMMERCIAL VERSION IS NOT OUT YET) and should not be used for any other purpose. The game is provided “as is” without any warranties or guarantees, express or implied. The game’s creators
 
-- are not responsible for any damages or losses resulting from the use of this game. All users of this game agree to use the game at their own risk
+ are not responsible for any damages or losses resulting from the use of this game. All users of this game agree to use the game at their own risk
 
 ```
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
