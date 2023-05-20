@@ -58333,7 +58333,7 @@ MonoBehaviour:
   playermovement: {fileID: 622932442}
   SpawnVFX: {fileID: 7177991128484655659, guid: 59a35ab9f68edff40b6e5332bed330f5, type: 3}
   Mountbtn: {fileID: 1427957578}
-  MountItem: {fileID: 8997783112833072016, guid: f2c98135469ea92428cb7c1160c5ecc3, type: 3}
+  MountItem: {fileID: 8997783112833072016, guid: 233aa6133e7bc804fa5cfd3d5f933cc7, type: 3}
   Mount: {fileID: 0}
   Timer: 0
   MaxTime: 1
